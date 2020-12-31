@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 rm -f CMakeCache.txt
 export CC=clang
 export CXX=clang++
